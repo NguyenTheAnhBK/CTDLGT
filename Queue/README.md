@@ -1,0 +1,1 @@
+Queue được ứng dụng trong giải thuật duyệt đồ thị theo chiều rộng (BFS)

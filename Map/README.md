@@ -1,0 +1,2 @@
+Cấu trúc dữ liệu Map (trong C# được gọi là Dictionary) giúp giải quyết các bài toán với tốc độ cao và cách cài đặt đơn giản.
+Thời gian tìm kiếm của Map chỉ mất O(logn) (https://www.geeksforgeeks.org/map-vs-unordered_map-c/)
